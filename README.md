@@ -10,7 +10,7 @@ dotnet build
 dotnet run --project .\src\Weather.Forecast.Web\Weather.Forecast.Web.csproj
 ```
 
-Then you can access the API/ swagger at localhost:5000
+Then you can access the API/ swagger at http://localhost:5000
 
 Edit launchSettings.json if you need to use another port than 5000
 
