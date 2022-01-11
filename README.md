@@ -19,6 +19,9 @@ Edit launchSettings.json if you need to use another port than 5000
 
 ## Alternatively, the solution can be opened in Visual Studio and run within (debug or relase mode)
 
+## Scheduler
+The project contains a task scheduler that will run every 10 minutes to check on cities weather forecast that were fetch more than 4 hours ago.
+
 ### There are 4 endpoints:
 
 ![image](https://user-images.githubusercontent.com/615849/148949811-dcda89e1-0376-461d-b76c-87df79d4961b.png)
