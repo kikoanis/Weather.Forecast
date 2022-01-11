@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c9751cb7-4cd6-4633-a99a-4f6add525437": {
+      "ProjectGuid": "c9751cb7-4cd6-4633-a99a-4f6add525437",
+      "DisplayName": "Weather.Forecast.Web",
+      "ColorIndex": 0
+    },
+    "744ad1dc-e83e-4ace-be57-395395d6e357": {
+      "ProjectGuid": "744ad1dc-e83e-4ace-be57-395395d6e357",
+      "DisplayName": "Weather.Forecast.SharedKernel",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4548eb20-1d1b-477b-af6e-dd55653a6583": {
+      "ProjectGuid": "4548eb20-1d1b-477b-af6e-dd55653a6583",
+      "DisplayName": "Weather.Forecast.Core",
+      "ColorIndex": 2
+    },
+    "220361d6-9c76-4e3f-bd34-3c7b50e2ca4d": {
+      "ProjectGuid": "220361d6-9c76-4e3f-bd34-3c7b50e2ca4d",
+      "DisplayName": "Weather.Forecast.Infrastructure",
+      "ColorIndex": 3
+    },
+    "7d84efee-a7d9-44ad-a0a3-38ec7882d94c": {
+      "ProjectGuid": "7d84efee-a7d9-44ad-a0a3-38ec7882d94c",
+      "DisplayName": "Weather.Forecast.FunctionalTests",
+      "ColorIndex": 4
+    },
+    "ce347db0-acf7-47d9-a79f-900cb5ed8e2f": {
+      "ProjectGuid": "ce347db0-acf7-47d9-a79f-900cb5ed8e2f",
+      "DisplayName": "Weather.Forecast.Scheduler",
+      "ColorIndex": 5
+    },
+    "840b5292-c4d6-49e3-8ecf-98d076048a78": {
+      "ProjectGuid": "840b5292-c4d6-49e3-8ecf-98d076048a78",
+      "DisplayName": "Weather.Forecast.Scheduler",
+      "ColorIndex": 6
+    },
+    "1dc7f5a0-ddf7-4975-84eb-05f4fc1b6ab5": {
+      "ProjectGuid": "1dc7f5a0-ddf7-4975-84eb-05f4fc1b6ab5",
+      "DisplayName": "Weather.Forecast.UnitTests",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

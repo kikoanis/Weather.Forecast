@@ -1,0 +1,17 @@
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\bin\Debug\net6.0\Weather.Forecast.Scheduler.deps.json
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\bin\Debug\net6.0\Weather.Forecast.Scheduler.dll
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\bin\Debug\net6.0\ref\Weather.Forecast.Scheduler.dll
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\bin\Debug\net6.0\Weather.Forecast.Scheduler.pdb
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\obj\Debug\net6.0\Weather.Forecast.Scheduler.csproj.AssemblyReference.cache
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\obj\Debug\net6.0\Weather.Forecast.Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\obj\Debug\net6.0\Weather.Forecast.Scheduler.AssemblyInfoInputs.cache
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\obj\Debug\net6.0\Weather.Forecast.Scheduler.AssemblyInfo.cs
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\obj\Debug\net6.0\Weather.Forecast.Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\obj\Debug\net6.0\Weather.Forecast.Scheduler.dll
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\obj\Debug\net6.0\ref\Weather.Forecast.Scheduler.dll
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\obj\Debug\net6.0\Weather.Forecast.Scheduler.pdb
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\bin\Debug\net6.0\Weather.Forecast.Core.dll
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\bin\Debug\net6.0\Weather.Forecast.SharedKernel.dll
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\bin\Debug\net6.0\Weather.Forecast.Core.pdb
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\bin\Debug\net6.0\Weather.Forecast.SharedKernel.pdb
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Scheduler\obj\Debug\net6.0\Weather.Forecast.Scheduler.csproj.CopyComplete

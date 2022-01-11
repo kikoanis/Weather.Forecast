@@ -1,0 +1,263 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.Infrastructure\\Weather.Forecast.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.Core\\Weather.Forecast.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.Core\\Weather.Forecast.Core.csproj",
+        "projectName": "Weather.Forecast.Core",
+        "projectPath": "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.Core\\Weather.Forecast.Core.csproj",
+        "packagesPath": "C:\\Users\\ahmer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\NuGet.Config",
+          "C:\\Users\\ahmer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.SharedKernel\\Weather.Forecast.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.SharedKernel\\Weather.Forecast.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Ardalis.GuardClauses": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Ardalis.Result": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.Infrastructure\\Weather.Forecast.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.Infrastructure\\Weather.Forecast.Infrastructure.csproj",
+        "projectName": "Weather.Forecast.Infrastructure",
+        "projectPath": "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.Infrastructure\\Weather.Forecast.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ahmer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\NuGet.Config",
+          "C:\\Users\\ahmer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.Core\\Weather.Forecast.Core.csproj": {
+                "projectPath": "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.Core\\Weather.Forecast.Core.csproj"
+              },
+              "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.SharedKernel\\Weather.Forecast.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.SharedKernel\\Weather.Forecast.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Ardalis.EFCore.Extensions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Ardalis.Specification.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.SharedKernel\\Weather.Forecast.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.SharedKernel\\Weather.Forecast.SharedKernel.csproj",
+        "projectName": "Weather.Forecast.SharedKernel",
+        "projectPath": "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.SharedKernel\\Weather.Forecast.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\ahmer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\NuGet.Config",
+          "C:\\Users\\ahmer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

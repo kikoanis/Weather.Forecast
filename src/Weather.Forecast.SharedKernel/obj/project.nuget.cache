@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "amB6qTEpKkQdX6bTZCoGUx5ni+KXowZPdkq6np8DhabbDOuxa1ZtDpdnHFcpDoHuk+uwtMQI7xnqI8zP3fVT5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmer\\source\\repos\\work\\Weather.Forecast\\src\\Weather.Forecast.SharedKernel\\Weather.Forecast.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmer\\.nuget\\packages\\ardalis.specification\\5.2.0\\ardalis.specification.5.2.0.nupkg.sha512",
+    "C:\\Users\\ahmer\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\ahmer\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ahmer\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ahmer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

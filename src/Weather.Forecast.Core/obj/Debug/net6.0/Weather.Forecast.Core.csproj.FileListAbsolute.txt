@@ -1,0 +1,15 @@
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Core\bin\Debug\net6.0\Weather.Forecast.Core.deps.json
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Core\bin\Debug\net6.0\Weather.Forecast.Core.dll
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Core\bin\Debug\net6.0\ref\Weather.Forecast.Core.dll
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Core\bin\Debug\net6.0\Weather.Forecast.Core.pdb
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Core\bin\Debug\net6.0\Weather.Forecast.SharedKernel.dll
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Core\bin\Debug\net6.0\Weather.Forecast.SharedKernel.pdb
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Core\obj\Debug\net6.0\Weather.Forecast.Core.csproj.AssemblyReference.cache
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Core\obj\Debug\net6.0\Weather.Forecast.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Core\obj\Debug\net6.0\Weather.Forecast.Core.AssemblyInfoInputs.cache
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Core\obj\Debug\net6.0\Weather.Forecast.Core.AssemblyInfo.cs
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Core\obj\Debug\net6.0\Weather.Forecast.Core.csproj.CoreCompileInputs.cache
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Core\obj\Debug\net6.0\Weather.Forecast.Core.csproj.CopyComplete
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Core\obj\Debug\net6.0\Weather.Forecast.Core.dll
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Core\obj\Debug\net6.0\ref\Weather.Forecast.Core.dll
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.Core\obj\Debug\net6.0\Weather.Forecast.Core.pdb

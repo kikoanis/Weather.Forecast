@@ -1,0 +1,12 @@
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.SharedKernel\bin\Debug\net6.0\Weather.Forecast.SharedKernel.deps.json
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.SharedKernel\bin\Debug\net6.0\Weather.Forecast.SharedKernel.dll
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.SharedKernel\bin\Debug\net6.0\ref\Weather.Forecast.SharedKernel.dll
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.SharedKernel\bin\Debug\net6.0\Weather.Forecast.SharedKernel.pdb
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.SharedKernel\obj\Debug\net6.0\Weather.Forecast.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.SharedKernel\obj\Debug\net6.0\Weather.Forecast.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.SharedKernel\obj\Debug\net6.0\Weather.Forecast.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.SharedKernel\obj\Debug\net6.0\Weather.Forecast.SharedKernel.AssemblyInfo.cs
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.SharedKernel\obj\Debug\net6.0\Weather.Forecast.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.SharedKernel\obj\Debug\net6.0\Weather.Forecast.SharedKernel.dll
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.SharedKernel\obj\Debug\net6.0\ref\Weather.Forecast.SharedKernel.dll
+C:\Users\ahmer\source\repos\work\Weather.Forecast\src\Weather.Forecast.SharedKernel\obj\Debug\net6.0\Weather.Forecast.SharedKernel.pdb
