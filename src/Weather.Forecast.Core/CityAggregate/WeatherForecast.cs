@@ -10,7 +10,15 @@ public class WeatherForecast : BaseEntity
 {
   [JsonProperty("consolidated_weather")]
   public IEnumerable<ConsolidatedWeather> ConsolidatedWeatherList { get; set; } = new List<ConsolidatedWeather>();
-  
+
+  public IEnumerable<ConsolidatedWeather> OrderedConsolidatedWeatherList
+  {
+    get
+    {
+      return ConsolidatedWeatherList.OrderBy(item => item.ApplicableDate);
+    }
+  }
+
   public int CityId { get; set; }
 
   [JsonProperty("time")] public DateTime CreateDateTime { get; set; }
