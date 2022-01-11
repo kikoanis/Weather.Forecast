@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using Newtonsoft.Json;
 using Weather.Forecast.SharedKernel;
 
 namespace Weather.Forecast.Core.CityAggregate;
@@ -11,7 +12,7 @@ public class WeatherForecast : BaseEntity
   [JsonProperty("consolidated_weather")]
   public IEnumerable<ConsolidatedWeather> ConsolidatedWeatherList { get; set; } = new List<ConsolidatedWeather>();
 
-  public IEnumerable<ConsolidatedWeather> OrderedConsolidatedWeatherList
+  [NotMapped] public IEnumerable<ConsolidatedWeather> OrderedConsolidatedWeatherList
   {
     get
     {
