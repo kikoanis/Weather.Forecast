@@ -1,3 +1,6 @@
+## Features
+The project was built using ASP.NET Core and SQLite as database.
+
 ## To Build in CLI
 navigate to project main folder and then run
 ```
